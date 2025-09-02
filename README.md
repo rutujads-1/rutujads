@@ -29,7 +29,7 @@ SQL • Power BI • Python • Excel
 
   ## Skills  
 
-- **Business Intelligence & Visualization:** Power BI, Excel, Matplotlib, Seaborn
+- **Business Intelligence & Visualisation:** Power BI, Excel, Matplotlib, Seaborn
   
 - **Programming & Data Analysis:** Python (Pandas, NumPy, Scikit-learn), SQL
 
