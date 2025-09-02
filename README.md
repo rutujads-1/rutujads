@@ -11,7 +11,7 @@ SQL • Power BI • Python • Excel
 
 
 - [**Maven Toys – Sales & Inventory Analytics**](https://github.com/rutujads-1/Maven-Toys-Sales-Inventory-Analytics)  
-  Designed Excel + Power BI dashboards to monitor revenue, profit, and inventory coverage across 40+ stores.  
+  Developed Power BI dashboards to monitor revenue, profit, and inventory coverage across 40+ stores, using Excel for data preparation and analysis.  
   Flagged critical stockouts and seasonal demand patterns, guiding replenishment and promotions.
   
 - [**Global Electronics Retail Sales Dashboard**](https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021)  
