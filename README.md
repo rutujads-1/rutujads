@@ -11,6 +11,19 @@ SQL • Power BI • Python • Excel
 
 - [**ecommerce-marketing-funnel-analysis**](https://github.com/rutujads-1/ecommerce-marketing-funnel-analysis)
 
+Analyzed e-commerce funnel performance to identify drop-off points across customer stages, highlighting conversion bottlenecks and opportunities to improve purchase completion.
+
+- [**Global Electronics Retail Sales Dashboard**](https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021)
+  
+  Built a Power BI dashboard analyzing 516K+ transactions across multiple regions.  
+  Identified a 50% revenue decline post-COVID and improved delivery time insights, enabling logistics and marketing strategies.
+
+- [**CRM Sales Pipeline Analysis**](https://github.com/rutujads-1/CRM-Sales-Dashboard)
+  
+  Built an interactive Power BI dashboard to track win rates, pipeline volume, and product performance across 8.8K+ opportunities.  
+  Highlighted top performers, underperformers, and bundling strategies to improve sales conversion.  
+
+
 - [**Prometrix – Marketing Campaign Performance Analysis**](https://github.com/rutujads-1/prometrix-marketing-campaign-performance-analysis)
   
   Analyzed marketing data for 2,240 customers using Excel to evaluate campaign success, customer behavior, and product performance.
@@ -21,15 +34,6 @@ SQL • Power BI • Python • Excel
   Developed Power BI dashboards to monitor revenue, profit, and inventory coverage across 40+ stores, using Excel for data preparation and analysis.  
   Flagged critical stockouts and seasonal demand patterns, guiding replenishment and promotions.
   
-- [**Global Electronics Retail Sales Dashboard**](https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021)
-  
-  Built a Power BI dashboard analyzing 516K+ transactions across multiple regions.  
-  Identified a 50% revenue decline post-COVID and improved delivery time insights, enabling logistics and marketing strategies.  
-
-- [**CRM Sales Pipeline Analysis**](https://github.com/rutujads-1/CRM-Sales-Dashboard)
-  
-  Built an interactive Power BI dashboard to track win rates, pipeline volume, and product performance across 8.8K+ opportunities.  
-  Highlighted top performers, underperformers, and bundling strategies to improve sales conversion.  
 
 - [**European Weather Data Analysis**](https://github.com/rutujads-1/europe-weather-analysis-ml)
   
