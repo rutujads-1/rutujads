@@ -11,18 +11,15 @@ SQL • Power BI • Python • Excel
 
 - [**ecommerce-marketing-funnel-analysis**](https://github.com/rutujads-1/ecommerce-marketing-funnel-analysis)
 
-Analyzed e-commerce funnel performance to identify drop-off points across customer stages, highlighting conversion bottlenecks and opportunities to improve purchase completion.
+Analyzed e-commerce website sessions data in SQL and build a Power BI dashboard to identify drop-off points across customer stages, highlighting conversion bottlenecks and opportunities to improve purchase completion.
 
 - [**Global Electronics Retail Sales Dashboard**](https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021)
-  
-  Built a Power BI dashboard analyzing 516K+ transactions across multiple regions.  
-  Identified a 50% revenue decline post-COVID and improved delivery time insights, enabling logistics and marketing strategies.
+
+Analyzed global retail sales data and built a Power BI dashboard to evaluate regional and category-level performance, uncovering revenue trends and growth opportunities across markets.
 
 - [**CRM Sales Pipeline Analysis**](https://github.com/rutujads-1/CRM-Sales-Dashboard)
   
-  Built an interactive Power BI dashboard to track win rates, pipeline volume, and product performance across 8.8K+ opportunities.  
-  Highlighted top performers, underperformers, and bundling strategies to improve sales conversion.  
-
+Analyzed CRM sales data in Excel and visualized key KPIs in Power BI to identify high-performing agent–product combinations and coaching opportunities.
 
 - [**Prometrix – Marketing Campaign Performance Analysis**](https://github.com/rutujads-1/prometrix-marketing-campaign-performance-analysis)
   
