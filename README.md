@@ -9,7 +9,7 @@ SQL • Power BI • Python • Excel
 
 ## Featured Projects
 
--[]()
+- [**ecommerce-marketing-funnel-analysis**](https://github.com/rutujads-1/ecommerce-marketing-funnel-analysis)
 
 - [**Prometrix – Marketing Campaign Performance Analysis**](https://github.com/rutujads-1/prometrix-marketing-campaign-performance-analysis)
   
