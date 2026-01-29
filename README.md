@@ -7,7 +7,7 @@ SQL • Power BI • Python • Excel
 
 
 
-## Featured Projects
+## Stakeholder Projects
 
 - [**ecommerce-marketing-funnel-analysis**](https://github.com/rutujads-1/ecommerce-marketing-funnel-analysis)
 
@@ -18,8 +18,11 @@ Analyzed e-commerce website sessions data in SQL and build a Power BI dashboard 
 Analyzed global retail sales data and built a Power BI dashboard to evaluate regional and category-level performance, uncovering revenue trends and growth opportunities across markets.
 
 - [**CRM Sales Pipeline Analysis**](https://github.com/rutujads-1/CRM-Sales-Dashboard)
-  
+
 Analyzed CRM sales data in Excel and visualized key KPIs in Power BI to identify high-performing agent–product combinations and coaching opportunities.
+
+## Personal Projects
+
 
 - [**Prometrix – Marketing Campaign Performance Analysis**](https://github.com/rutujads-1/prometrix-marketing-campaign-performance-analysis)
 
